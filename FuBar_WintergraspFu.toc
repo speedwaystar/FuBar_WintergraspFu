@@ -1,0 +1,26 @@
+## Interface: 30100
+## Title: FuBar - |cffffffffWintergrasp|r|cff00ff00Fu|r
+## Author: Adron
+## Notes: Tracks time until next Wintergrasp battle
+## Notes-deDE: Verfolgt die Zeit bis zur nächsten Schlacht um Tausendwinter.
+## Notes-koKR: 겨울 손아귀 호수 전투의 다음 시간을 탐지합니다.
+## Dependencies: FuBar
+## SavedVariables: WintergraspFuDB
+## Version: 1.1-beta4
+## X-Curse-Packaged-Version: 1.1-beta4
+## X-Curse-Project-Name: FuBar_WintergraspFu
+## X-Curse-Project-ID: WintergraspFu
+## X-Curse-Repository-ID: wow/WintergraspFu/mainline
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+Localization-enUS.lua
+Localization-deDE.lua
+Localization-zhTW.lua
+Localization-koKR.lua
+Localization-frFR.lua
+Localization-ruRU.lua
+
+WintergraspFu.lua
