@@ -48,8 +48,8 @@ function WintergraspFu:GetTimeText(seconds)
 		if m > 0 then
 			timeText = timeText .. m .. L["m"].." "
 		end
-		-- only show seconds in last 10 minutes
-		if h == 0 and m < 10 and s > 0 then
+		-- only show seconds in last minute
+		if h == 0 and m == 0 and s > 0 then
 			timeText = timeText .. s .. L["s"]
 		end
 	end
