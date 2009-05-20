@@ -1,13 +1,13 @@
-## Interface: 30100
+﻿## Interface: 30100
 ## Title: FuBar - |cffffffffWintergrasp|r|cff00ff00Fu|r
 ## Author: Adron
-## Updates: Speedwaystar
+## Version: 1.2 Beta 1 (speedwaystar)
+## Updated by: speedwaystar (speedwaystar@gmail.com)
 ## Notes: Tracks time until next Wintergrasp battle
 ## Notes-deDE: Verfolgt die Zeit bis zur nächsten Schlacht um Tausendwinter.
 ## Notes-koKR: 겨울 손아귀 호수 전투의 다음 시간을 탐지합니다.
 ## Dependencies: FuBar
 ## SavedVariables: WintergraspFuDB
-## Version: 1.2 Beta 1
 
 #@no-lib-strip@
 embeds.xml
