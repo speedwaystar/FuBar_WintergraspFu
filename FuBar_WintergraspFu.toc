@@ -13,12 +13,12 @@
 embeds.xml
 #@end-no-lib-strip@
 
-Localization-enUS.lua
-Localization-enGB.lua
-Localization-deDE.lua
-Localization-zhTW.lua
-Localization-koKR.lua
-Localization-frFR.lua
-Localization-ruRU.lua
+Locales\enUS.lua
+Locales\enGB.lua
+Locales\deDE.lua
+Locales\zhTW.lua
+Locales\koKR.lua
+Locales\frFR.lua
+Locales\ruRU.lua
 
 WintergraspFu.lua
