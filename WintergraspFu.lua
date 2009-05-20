@@ -2,7 +2,7 @@ WintergraspFu = AceLibrary("AceAddon-2.0"):new("FuBarPlugin-2.0", "AceDB-2.0", "
 WintergraspFu:RegisterDB("WintergraspFuDB");
 local L = AceLibrary("AceLocale-2.2"):new("WintergraspFu")
 
-WintergraspFu.title = "WintergraspFu " ..  GetAddOnMetadata("WintergraspFu", "Version") 
+WintergraspFu.title = "WintergraspFu "..GetAddOnMetadata("Fubar_WintergraspFu", "Version") 
 WintergraspFu.hasIcon = "Interface\\Icons\\INV_Jewelry_Ring_66"
 WintergraspFu.defaultPosition = "LEFT"
 WintergraspFu.cannotDetachTooltip = true
