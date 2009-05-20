@@ -14,7 +14,7 @@ embeds.xml
 #@end-no-lib-strip@
 
 Localization-enUS.lua
-Localization-enUK.lua
+Localization-enGB.lua
 Localization-deDE.lua
 Localization-zhTW.lua
 Localization-koKR.lua

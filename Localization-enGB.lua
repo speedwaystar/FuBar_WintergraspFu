@@ -2,7 +2,7 @@
 
 local L = AceLibrary("AceLocale-2.2"):new("WintergraspFu")
 
-L:RegisterTranslations("enUK", function () return {
+L:RegisterTranslations("enGB", function () return {
 	["WG"] = true,
 	["Active"] = true,
 	["h"] = true, -- short for hour
